@@ -5,3 +5,7 @@ Esta é a primeira versão do meu Portfólio. Criado utilizando apenas HTML e CS
 ---
 
 Meu objetivo é ir incrementando ele conforme meus conhecimentos forem avançando tanto em CSS quanto em JS.
+
+---
+
+Ainda não está responsivo. =/

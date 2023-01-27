@@ -1,0 +1,11 @@
+.home__title {
+  font-weight: 400;
+  font-size: 58px;
+  width: 600px;
+  margin: 0;
+
+}
+
+.home__title--principal {
+  color: #EA0F0F;
+}

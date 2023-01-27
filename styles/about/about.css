@@ -1,0 +1,42 @@
+.about {
+  height: 100vh;
+  padding: 5rem 2rem 0 6rem;
+}
+
+.about__title {
+  font-size: 58px;
+  padding-bottom: 5rem;
+}
+
+.about__title span {
+  color: #EA0F0F;
+}
+
+.about__info {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.about__info span {
+  font-weight: 600;
+  padding-right: 0.5rem;
+  display: inline;
+  
+}
+
+.about__div--history {
+  display: flex;
+}
+
+.about__history--content {
+  width: 89%;
+}
+
+.about__history {
+  text-indent: 3rem;
+  line-height: 1.5rem;
+  text-align: justify;
+}
+
+

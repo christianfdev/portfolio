@@ -1,0 +1,14 @@
+.menu__link a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 24px;
+  transition: 0.75s;
+}
+
+.menu__link a:hover {
+  text-shadow: 0 0 10px #EA0F0F;
+}
+
+.menu__link:last-child{
+  margin-right: 3rem;
+}

@@ -1,0 +1,9 @@
+.skill {
+  display: flex;
+  align-items: center;
+}
+
+.check {
+  display: flex;
+  align-items: center;
+}

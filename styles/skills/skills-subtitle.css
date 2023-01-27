@@ -1,0 +1,12 @@
+.skills__subtitle {
+  font-size: 48px;
+  font-weight: 400;
+  padding: 7rem 0;
+  margin-left: 10rem;
+}
+
+.skills__subtitle--back {
+  display: flex;
+  justify-content: right;
+  margin: 0 10rem 0 0;
+}

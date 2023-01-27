@@ -1,0 +1,27 @@
+.contact {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.contact__title {
+  font-size: 58px;
+  padding-bottom: 5rem;
+}
+
+.contact__title span {
+  color: #EA0F0F;
+  border-bottom: #fff solid 4px;
+}
+
+.contact__social {
+  padding-bottom: 2rem;
+}
+
+.contact__social--github {
+  width: 141px;
+  height: 201px;
+}

@@ -1,0 +1,9 @@
+.home__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 0 3rem 0 4rem;
+}
+
+
+

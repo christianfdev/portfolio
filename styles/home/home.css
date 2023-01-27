@@ -1,0 +1,11 @@
+.home {
+  height: calc(100vh - 4rem);
+  display: flex;
+}
+
+.home--horizontalLine {
+  height: 409px;
+  width: 7px;
+  margin: 14rem 0 0 6rem;
+  background-color: #fff;
+}

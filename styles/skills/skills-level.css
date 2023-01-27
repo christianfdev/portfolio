@@ -1,0 +1,7 @@
+.skills__level {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: left;
+    gap: 1.7rem;
+}
